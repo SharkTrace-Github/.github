@@ -124,7 +124,8 @@ The dataflow involves a three-phase process for collecting, processing, and inse
 ---
 
 ## Real-Time Alert Generation
-
+![alt text](image-1.png)
+<br>
 The real-time alert system monitors live transactions, generates alerts based on a predefined watchlist, and categorizes these alerts for specific customers:
 
 1. **Set Watchlist**
@@ -140,7 +141,8 @@ The real-time alert system monitors live transactions, generates alerts based on
 ---
 
 ## Wallet Attribution Data Collection and Processing
-
+![alt text](image-2.png)
+<br>
 The system collects and processes wallet attribution data from the web and dark web:
 
 1. **Data Collection from Web and Dark Web**
@@ -155,6 +157,8 @@ The system collects and processes wallet attribution data from the web and dark 
 ---
 
 ## Real-Time KYT System
+![alt text](image-3.png)
+<br>
 
 The real-time Know Your Transaction (KYT) system assesses and generates risk scores for transactions:
 
