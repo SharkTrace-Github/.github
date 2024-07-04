@@ -41,6 +41,7 @@ Welcome to the Cryptocurrency Transaction Monitoring System repository. This sys
 ## System Overview
 
 This system is designed to monitor and analyze cryptocurrency transactions by gathering data from various sources, including the web, dark net, and blockchain networks such as Bitcoin, Ethereum, XRP, and TRON. It provides real-time data and updates, ensuring comprehensive coverage and timely insights.
+<br>
 ![System Architecture](https://github.com/SharkTrace-Github/.github/blob/main/profile/images/system-architecture.png)
 ---
 
@@ -79,7 +80,8 @@ This system is designed to monitor and analyze cryptocurrency transactions by ga
 
 ### Overview
 The database design facilitates fetching and transforming data from a Bitcoin full node into two collections: Wallet Summary and Transaction Data. Data is managed efficiently through sharding techniques and stored in MongoDB or a distributed storage system.
-
+<br>
+![Database Design](https://github.com/SharkTrace-Github/.github/blob/main/profile/images/database-design.png)
 ### Collections
 
 #### Wallet Summary
